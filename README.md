@@ -356,3 +356,5 @@ Hexapod/
 - [**MOHAMMAD AFFAN HAIDER**](https://github.com/ThatOneNewbGUY)
 
 **Mentor:** [**MAYANK KUMAR SINGH**](https://github.com/mayanksinghx01)
+
+**Original team repository:** [Suraj-Choudhary7/Hexapod](https://github.com/Suraj-Choudhary7/Hexapod)
